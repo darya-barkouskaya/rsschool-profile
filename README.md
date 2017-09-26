@@ -1,2 +1,2 @@
 Darya Barkouskaya
-HTML CSS Basics: https://www.codecademy.com/chipPro53904#completed
+HTML CSS Basics: https://www.codecademy.com/users/chipPro53904/achievements
